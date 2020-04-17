@@ -1,0 +1,134 @@
+body {
+
+  background-image: url(img/background.jpg);
+margin: 0;
+padding: 0;
+
+
+}
+.grid{
+  margin: 0;
+  box-shadow: 3px 15px 46px 25px #282425;
+  margin-top: 4%;
+  margin-left: 12%;
+  text-align: center;
+  width: 75%;
+  height: 100%;
+  background-color: white;
+  max-width: 100%;
+
+}
+
+
+
+.navbar{
+  background-color: #333;
+}
+
+
+.title{
+  font-family: 'Satisfy', cursive;
+}
+.logo{
+  margin-top: 75px;
+}
+.grid2{
+  background-color: #c2c2c2;
+height: 100%;
+margin-left: 10%;
+margin-right: 10%;
+box-shadow: 1px 23px 20px 26px grey;
+}
+.vikings {
+  width: 100%;
+  height: 70%;
+    margin-top: 23px;
+    margin-right: 595px;
+}
+a{
+  color: black;
+
+}
+a:hover{
+  text-transform: uppercase;
+}
+
+
+.container{
+  width: 100%;
+  padding-left: 2%;
+  padding-right: 0;
+  margin: auto;
+}
+.row {
+    -webkit-animation: fadein 2.5s; /* Safari and Chrome */
+    -moz-animation: fadein 2.5s; /* Firefox */
+    -ms-animation: fadein 2.5s; /* Internet Explorer */
+    -o-animation: fadein 2.5s; /* Opera */
+    animation: fadein 2.5s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari and Chrome */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}​
+
+/* Opera */
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}​
+
+
+img {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+div.col-md-3:hover, div.middle:hover{
+  opacity: 0.3;
+}
+div.middle:hover, div.text:hover{
+  opacity: 1;
+  display: block;
+}
+.middle {
+  transition: .2s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+.text {
+  color: white;
+  font-size: 40px;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}

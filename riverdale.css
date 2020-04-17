@@ -1,0 +1,76 @@
+body {
+
+  background-image: url(img/background.jpg);
+margin: 0;
+padding: 0;
+
+
+}
+.grid{
+  margin: 0;
+  box-shadow: 3px 15px 46px 25px #282425;
+  margin-top: 4%;
+  margin-left: 8%;
+  width: 81%;
+  height: 3102px;
+  background-color: white;
+  max-width: 100%;
+
+}
+
+
+
+.navbar{
+  background-color: #333;
+}
+
+
+.title{
+  font-family: 'Satisfy', cursive;
+}
+.logo{
+  margin-top: 75px;
+}
+.grid2{
+  background-color: #c2c2c2;
+height: 2119px;
+margin-left: 10%;
+margin-right: 10%;
+box-shadow: 1px 23px 20px 26px grey;
+}
+.mrrobot{
+  width: 100%;
+    margin-top: 12%;
+    border: solid;
+}
+.about-text{
+  color: black;
+  margin-top: -163%;
+    margin-right: -300%;
+    margin-left: 106%;
+    text-align: left;
+}
+.nav{
+  margin-left: 35%;
+
+}
+.list-group{
+  text-align: left;
+}
+.tt{
+border-top: solid;
+}
+.text2{
+  text-align: right;
+    display: inline;
+    margin-left: 665px;
+color: black;
+}
+
+.line{
+  border: 1.5px solid #312c2ca1;
+
+}
+p {
+  color: white;
+}

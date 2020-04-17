@@ -1,0 +1,111 @@
+body {
+
+  background-image: url(img/background.jpg);
+margin: 0;
+padding: 0;
+
+
+}
+.grid{
+  margin: 0;
+  box-shadow: 3px 15px 46px 25px #282425;
+  margin-top: 4%;
+  margin-left: 12%;
+  text-align: center;
+  width: 75%;
+  height: 1617px;
+  background-color: white;
+  max-width: 100%;
+
+}
+
+
+
+.navbar{
+  background-color: #333;
+}
+
+
+.title{
+  font-family: 'Satisfy', cursive;
+}
+.logo{
+  margin-top: 75px;
+}
+.grid2{
+  background-color: #c2c2c2;
+height: 100%;
+margin-left: 10%;
+margin-right: 10%;
+box-shadow: 1px 23px 20px 26px grey;
+}
+.vikings{
+  width: 28%;
+margin-top: 5%;
+margin-left: -68%;
+}
+.text1{
+    margin-top: -45%;
+
+    margin-left: 32%;
+
+
+}
+.row{
+  height: 809px;
+}
+.text2{
+  margin-left: 14%;
+  font-size: 21px;
+  margin-right: 1%;
+}
+#text3{
+  margin-left: -29%;
+   margin-top: 6%;
+   line-height: 0;
+   font-size: 21px
+}
+.seasons{
+  margin-top: 133px;
+    margin-left: 383px;
+    text-align: center;
+    width: 280%;
+}
+.vikings2{
+  width: 715%;
+  height: 272px;
+  margin-top: 23px;
+  margin-left: -3px
+
+}
+
+.vikings-text{
+  text-align: left;
+  margin-left: 8%;
+
+}
+
+.nav{
+  margin-top: 15%;
+    margin-left: 17%;
+
+}
+.list-group {
+background-color: #00000017;
+border-top: 1px solid #ddd;
+border-radius: 0;
+color: black;
+width: 100%;
+margin-top: 8%;
+text-align: left;
+}
+.list-group:hover{
+  background-color: blue;
+
+}
+.list-group-item{
+  text-align: left;
+}
+.list-group-item:hover{
+  background-color: #d2d2d2;
+}

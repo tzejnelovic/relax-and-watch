@@ -1,0 +1,59 @@
+body {
+
+  background-image: url(img/background.jpg);
+margin: 0;
+padding: 0;
+
+
+}
+.grid{
+  margin: 0;
+  box-shadow: 3px 15px 46px 25px #282425;
+  margin-top: 4%;
+  margin-left: 12%;
+  text-align: center;
+  width: 75%;
+  height: 100%;
+  background-color: white;
+  max-width: 100%;
+
+}
+
+
+
+.navbar{
+  background-color: #333;
+}
+
+
+.title{
+  font-family: 'Satisfy', cursive;
+}
+.logo{
+  margin-top: 75px;
+}
+.grid2{
+  background-color: #c2c2c2;
+height: 1000px;
+margin-left: 10%;
+margin-right: 10%;
+box-shadow: 1px 23px 20px 26px grey;
+}
+.got{
+  width: 100%;
+    margin-top: 12%;
+    border: solid;
+}
+.about-text{
+  margin-top: -163%;
+    margin-right: -300%;
+    margin-left: 106%;
+    text-align: left;
+}
+.nav{
+  margin-left: 35%;
+
+}
+.list-group{
+  text-align: left;
+}
