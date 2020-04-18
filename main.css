@@ -92,10 +92,7 @@ a:hover{
 }​
 
 /* Opera */
-@-o-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}​
+
 
 
 img {
